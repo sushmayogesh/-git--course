@@ -5,4 +5,8 @@ Create a avatar for Users
 
 managing users profile
 
+<<<<<<< HEAD
 change1 in my database
+=======
+chages in harsh databses
+>>>>>>> feature3
