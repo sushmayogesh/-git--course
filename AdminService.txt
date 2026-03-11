@@ -7,3 +7,5 @@ added login and logout feature
 
 changes 1
 changes2
+
+adding lite version
