@@ -2,7 +2,7 @@ add admin deatils
 process the admin data
 
 managing databases
-
+closing mysql databases connection
 added login and logout feature
 
 changes 1
