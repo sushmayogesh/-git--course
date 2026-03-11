@@ -1,0 +1,6 @@
+add admin deatils
+process the admin data
+
+managing databases
+
+added login and logout feature
